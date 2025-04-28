@@ -1,0 +1,5 @@
+tooldantic @ git+https://github.com/spacecheck/tooldantic.git
+pydantic==2.6.4
+ipykernel
+openai
+pandas==2.2.0

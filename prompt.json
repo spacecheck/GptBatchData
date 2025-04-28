@@ -1,0 +1,4 @@
+{
+    "system_prompt": "You are an expert in extracting information from recepies.",
+    "base_prompt": "Read the recipe and fill out the ExtractedData accordingly. Also give the recipe a funny pretentious name.\n"
+}
